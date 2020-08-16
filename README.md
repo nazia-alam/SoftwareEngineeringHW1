@@ -1,3 +1,3 @@
 # SoftwareEngineeringHW1
 
-# DOI link: http://doi.org/10.5281/zenodo.3986930
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3986930.svg)](https://doi.org/10.5281/zenodo.3986930
