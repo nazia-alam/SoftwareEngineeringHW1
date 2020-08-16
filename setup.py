@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="hzhang934748656",
+    name="SE20 Group 10",
     version="0.0.1",
     author="SE20 Group 10",
     author_email="hzhang62@ncsu.edu",
