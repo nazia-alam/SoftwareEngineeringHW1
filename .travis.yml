@@ -17,4 +17,4 @@ jobs:
     env: 
      - TEST_SUITE1=3
      - TEST_SUITE2=4
-script: ./code/__init__.py $TEST_SUITE1 $TEST_SUITE2
+script: ./test/test_code.py $TEST_SUITE1 $TEST_SUITE2
