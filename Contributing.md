@@ -30,7 +30,6 @@ Once done and you have the code locally on the disk, you can get started. We adv
 ### Write Code
 For writing the code just follow our [Python style guide](#Python-Styleguide). If there is something unclear of the style, just look at existing code which might help you to understand it better.
 
-
 ## Style guide 
 ### Git Commit Messages
 
