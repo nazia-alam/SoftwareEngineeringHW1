@@ -15,3 +15,5 @@ First thing first, you should install and configure the [Git](https://git-scm.co
 
 ###  Fork Our Repositroy
 To contribute code to our product, you must have a Github account so you could push code to your own fork and open Pull Requests in the [GitHub repository](https://github.com/nazia-alam/SoftwareEngineeringHW1)
+### Work On Your Own branch
+Once done and you have the code locally on the disk, you can get started. We advice to not work directly on the master branch, but to create a separate branch for each issue you are working on. That way you can easily switch between different work, and you can update each one for latest changes on upstream master individually.
