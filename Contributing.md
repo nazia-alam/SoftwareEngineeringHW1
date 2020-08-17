@@ -3,9 +3,13 @@ when you want to contribute to this repository, please send us an email and tell
 
 ### Table Of Contents
 [Purpose of Contributing](#Purpose-of-Contributing)
+
 [Code of Conduct](#Code-of-Conduct)
+
 [Pull Request Submission Guidelines](#Pull-Request-Submission-Guidelines)
+
 [Styleguide](#Style-guide)
+
 ## Purpose of Contributing
 * Maintain our product quality
 * Fix bugs and problems
