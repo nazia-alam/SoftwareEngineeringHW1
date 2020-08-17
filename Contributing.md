@@ -10,5 +10,7 @@ Please fork the repository
 All contributors should abide by the [code of conduct](CODE_OF_CONDUCT.md). Please read this carefully before contributing.
 
 ## Pull Request Submission Guidelines
+First thing first, you should install and configure the [Git](https://git-scm.com/) on your local machine.
 
+[Set Up Git](https://docs.github.com/en/github/getting-started-with-github/quickstart) is a good source for you to set up.
 
