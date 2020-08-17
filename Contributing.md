@@ -10,6 +10,7 @@ All contributors should abide by the [code of conduct](CODE_OF_CONDUCT.md). Plea
 ## Pull Request Submission Guidelines
 ###  Install Git
 First thing first, you should install and configure the [Git](https://git-scm.com/) on your local machine.
+
 [Set Up Git](https://docs.github.com/en/github/getting-started-with-github/quickstart) is a good source for you to set up.
 
 ###  Fork Our Repositroy
