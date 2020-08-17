@@ -2,7 +2,7 @@
 when you want to contribute to this repository, please send us an email and tell us what you want to change. 
 
 ### Table Of Contents
-[Purpose of Contributing](#Purpose of Contributing)
+[Purpose of Contributing](#Purpose-of-Contributing)
 [Code of Conduct](#Code of Conduct)
 [Pull Request Submission Guidelines](#Pull Request Submission Guidelines)
 [Styleguide](#Styleguide)
