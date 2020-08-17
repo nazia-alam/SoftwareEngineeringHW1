@@ -2,6 +2,10 @@
 
 ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3986930.svg)
 
+
+Travis Badge: [![Build Status](https://travis-ci.com/nazia-alam/SoftwareEngineeringHW1.svg?branch=master)](https://travis-ci.com/nazia-alam/SoftwareEngineeringHW1)
+
+
 ## About the repository
 
 This repository is part of Homework 1 for CSC 510. It contains a structure which helps to manage a software's development in an organized manner.
