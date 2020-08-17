@@ -30,7 +30,6 @@ Once done and you have the code locally on the disk, you can get started. We adv
 * Consider starting the commit message with an applicable emoji:
     * :art: `:art:` when improving the format/structure of the code
     * :racehorse: `:racehorse:` when improving performance
-    * :non-potable_water: `:non-potable_water:` when plugging memory leaks
     * :memo: `:memo:` when writing docs
     * :penguin: `:penguin:` when fixing something on Linux
     * :apple: `:apple:` when fixing something on macOS
