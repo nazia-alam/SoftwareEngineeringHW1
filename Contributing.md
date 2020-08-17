@@ -52,3 +52,6 @@ Once done and you have the code locally on the disk, you can get started. We adv
     * :arrow_up: `:arrow_up:` when upgrading dependencies
     * :arrow_down: `:arrow_down:` when downgrading dependencies
     * :shirt: `:shirt:` when removing linter warnings
+ ### Documentation Styleguide  
+   * Use [Markdown](https://daringfireball.net/projects/markdown/)
+
