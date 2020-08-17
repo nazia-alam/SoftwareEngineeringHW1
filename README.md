@@ -4,7 +4,7 @@
 
 ## About the repository
 
-This repository is part of Homework 1 for CSC 510. It contains a structure which helps to manage a software's developmen in an organized manner.
+This repository is part of Homework 1 for CSC 510. It contains a structure which helps to manage a software's development in an organized manner.
 
 ## Contents
 
