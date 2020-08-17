@@ -1,7 +1,7 @@
+#!/usr/bin/env python
+sys.path.insert(0, "../")
 from code.main import add_numbers
 import sys  
-
-sys.path.insert(0, "../")
 
 
 def test_add_numbers():
