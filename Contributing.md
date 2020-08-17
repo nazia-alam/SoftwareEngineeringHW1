@@ -3,9 +3,9 @@ when you want to contribute to this repository, please send us an email and tell
 
 ### Table Of Contents
 [Purpose of Contributing](#Purpose-of-Contributing)
-[Code of Conduct](#Code of Conduct)
-[Pull Request Submission Guidelines](#Pull Request Submission Guidelines)
-[Styleguide](#Styleguide)
+[Code of Conduct](#Code-of-Conduct)
+[Pull Request Submission Guidelines](#Pull-Request-Submission-Guidelines)
+[Styleguide](#Style-guide)
 ## Purpose of Contributing
 * Maintain our product quality
 * Fix bugs and problems
@@ -25,7 +25,7 @@ To contribute code to our product, you must have a Github account so you could p
 Once done and you have the code locally on the disk, you can get started. We advice to not work directly on the master branch, but to create a separate branch for each issue you are working on. That way you can easily switch between different work, and you can update each one for latest changes on upstream master individually.
 
 
-## Styleguide 
+## Style guide 
 ### Git Commit Messages
 
 * Use the present tense ("Add feature" not "Added feature")
