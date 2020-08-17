@@ -27,7 +27,8 @@ First thing first, you should install and configure the [Git](https://git-scm.co
 To contribute code to our product, you must have a Github account so you could push code to your own fork and open Pull Requests in the [GitHub repository](https://github.com/nazia-alam/SoftwareEngineeringHW1)
 ### Work On Your Own branch
 Once done and you have the code locally on the disk, you can get started. We advice to not work directly on the master branch, but to create a separate branch for each issue you are working on. That way you can easily switch between different work, and you can update each one for latest changes on upstream master individually.
-
+### Write Code
+For writing the code just follow our [Python style guide](#Python-Styleguide). If there is something unclear of the style, just look at existing code which might help you to understand it better.
 
 ## Style guide 
 ### Git Commit Messages
@@ -52,6 +53,9 @@ Once done and you have the code locally on the disk, you can get started. We adv
     * :arrow_up: `:arrow_up:` when upgrading dependencies
     * :arrow_down: `:arrow_down:` when downgrading dependencies
     * :shirt: `:shirt:` when removing linter warnings
+    
+ ### Python Styleguide
+   * Use [Flake8](https://flake8.pycqa.org/en/latest/index.html#quickstart)
  ### Documentation Styleguide  
    * Use [Markdown](https://daringfireball.net/projects/markdown/)
 
