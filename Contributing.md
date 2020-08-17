@@ -3,3 +3,6 @@
 when you want to contribute to this repository, please send us an email and tell us what you want to change. 
 Please fork the repository
 
+## Code of Conduct
+All contributors should abide by the [code of conduct](CODE_OF_CONDUCT.md).Please read this carefully before contributing
+
