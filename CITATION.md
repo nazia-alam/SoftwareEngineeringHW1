@@ -1,15 +1,14 @@
 Use the following to cite the latest version of this project:
 
-```
-@misc{SoftwareEngineeringHW1,
-  author       = {Hao Zhang, Nazia Alam, Saurabh Patil, Shahil Shah, Zhuolin Li}
-  title        = {SoftwareEngineeringHW1: v1.0.1},
-  month        = August,
-  year         = 2020,
-  doi          = {10.5281/zenodo.3988571},
-  url          = {http://doi.org/10.5281/zenodo.3988571}
+```bibtex
+@article{nazia-alam:SoftwareEngineeringHW1,
+  title     = {SoftwareEngineeringHW1: Homework 1 of group 10 for CSC 510},
+  DOI       = {10.5281/zenodo.3988571}, 
+  author    = {SE20 Group 10}, 
+  publisher = {Zenodo}, 
+  year      = {2020}, 
+  month     = {August}
 }
-
 ```
 
 To check the details view the zenodo page by clicking on the badge below.
