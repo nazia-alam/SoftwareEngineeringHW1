@@ -6,7 +6,7 @@ Use the following to cite the latest version of this project:
   title        = {SoftwareEngineeringHW1: v1.0.1},
   month        = August,
   year         = 2020,
-  doi          = {10.5281/zenodo.3986930},
+  doi          = {10.5281/zenodo.3988571},
   url          = {http://doi.org/10.5281/zenodo.3988571}
 }
 
