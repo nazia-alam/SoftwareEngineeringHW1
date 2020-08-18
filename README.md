@@ -1,6 +1,6 @@
 # Software Engineering HW1
 
-Zenodo Badge: ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3986930.svg)
+Zenodo Badge: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3988571.svg)](https://doi.org/10.5281/zenodo.3988571)
 
 
 Travis Badge: [![Build Status](https://travis-ci.com/nazia-alam/SoftwareEngineeringHW1.svg?branch=master)](https://travis-ci.com/nazia-alam/SoftwareEngineeringHW1)
